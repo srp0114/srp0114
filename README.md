@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srp0114&show_icons=true\&theme=bear&show_icons=true)](https://github.com/srp0114)
-<br/>
+<br/><br/>
 
 ### 🛠 Tech Stacks
 <p><b>📚 Main Skills 📚</b></p>
@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
 </div>
+<br/>
 
 ### 🧑‍💻 Contact
  <div> 
