@@ -1,6 +1,10 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srp0114&show_icons=true\&theme=bear&show_icons=true)](https://github.com/srp0114)
-<br/><br/>
+<div>
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srp0114&show_icons=true\&theme=buefy&title)](https://github.com/srp0114)
+
+</div>
+<br/>
 
 ### 🛠 Tech Stacks
 <p><b>📚 Main Skills 📚</b></p>
