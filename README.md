@@ -1,9 +1,7 @@
 ### Hi there 👋
-<div>
- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srp0114&show_icons=true\&theme=buefy&title)](https://github.com/srp0114)
-
-</div>
+<br/>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=srp0114)](https://github.com/srp0114/velog-readme-stats)
 <br/>
 
 ### 🛠 Tech Stacks
