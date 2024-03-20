@@ -16,7 +16,10 @@
 </div>
 
 ### 🎯 Dev log
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=srp0114)](https://velog.io/@srp0114/posts)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=srp0114)](https://velog.io/@srp0114)
+ <!--
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=srp0114)](https://velog.io/@srp0114) 
+ -->
  
 ### 🧑‍💻 Contact
 <a href=mailto:ksy010114@gmail.com> 
