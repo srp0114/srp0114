@@ -1,26 +1,34 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srp0114&show_icons=true\&theme=buefy&title)](https://github.com/srp0114)
-<br/>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=srp0114)](https://velog.io/@srp0114/posts)
-<br/>
 
 ### 🛠 Tech Stacks
 <p><b>📚 Main Skills 📚</b></p>
 <div>
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&flat-square&logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6.svg?&flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/>
 </div>
 <p/>
 <p><b>🔥 Recently, Studying with interest 🔥</b></p>
 <div>
-<img src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white"/>
 </div>
-<br/>
 
+### 💻 Dev log
+<div style="display:flex; flex-direction:row;">
+ <a href = "https://velog.io/@srp0114/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+ </a> 
+ 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=srp0114)](https://velog.io/@srp0114/posts)
+</div>
+
+<!--
 ### 🧑‍💻 Contact
  <div> 
  <a href=mailto:ksy010114@gmail.com> 
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ksy010114@gmail.com"> </a>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksy010114@gmail.com"> </a>
  </div> 
+<br/>
+-->
